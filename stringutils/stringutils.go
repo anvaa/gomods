@@ -1,4 +1,4 @@
-package github.com/anvaa/stringutils
+package github.com/anvaa/gomods
 
 import (
 	"strings"
