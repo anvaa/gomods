@@ -1,3 +1,3 @@
-module github.com/anvaa/stringutils
+module github.com/anvaa/gomods/stringutils
 
 go 1.20
