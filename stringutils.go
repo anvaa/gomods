@@ -1,4 +1,4 @@
-package anvaa/tools
+package stringutils
 
 import (
 	"strings"
