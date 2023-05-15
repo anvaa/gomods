@@ -15,3 +15,7 @@ func CountChars(cont string) int {
 func RemoveSpaces(cont string) string {
 	return strings.Replace(cont, " ", "", -1)
 }
+
+func TrimSpaces(cont string) string {
+	return strings.TrimSpace(cont)
+}
