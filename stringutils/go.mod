@@ -1,3 +1,3 @@
-module github.com/anvaa/gomods
+module anvaa/utils
 
 go 1.20
